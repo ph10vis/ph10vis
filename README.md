@@ -17,11 +17,27 @@ I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **le
 ### 🛠️ The Assembly Enthusiast
 Fascinated by the intricacies of **security and penetration** to ethically gain advantages. Deeply involved in projects that require a thorough understanding of **assembly** and system internals.
 
-### 🌐 The Microservices Maestro
+### 🌐 Making of microservices
 Proficient in **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
 
 ## 🚀 My Projects
-[Include your project descriptions and links here as previously detailed]
+### Python
+- [**QuickType-Bot**](https://github.com/cracksuxer/QuickType-Bot): An innovative bot using Google OCR for automatic typing on platforms like MonkeyType.
+- [**DataCleaning-TID**](https://github.com/cracksuxer/DataCleaning-TID): A project focused on data cleaning methodologies.
+- [**TID_Grupo**](https://github.com/cracksuxer/TID_Grupo) & [**TID-GRUPO02**](https://github.com/cracksuxer/TID-GRUPO02): Classification of suspicious purchases using a dataset from Kaggle.
+- [**SOM-TID**](https://github.com/cracksuxer/SOM-TID): Self-Organizing Map project for data analysis.
+
+### Unity C#
+- [**Whack-an-Animal**](https://github.com/cracksuxer/Whack-an-animal): A fun, Unity-based Whack-A-Mole game with 360-degree VR integration.
+
+### C++
+- [**Auto-Compiler-Cpp**](https://github.com/cracksuxer/Auto-compiler-cpp): A simple yet effective tool akin to automake for C++ projects.
+
+### Go
+- [**Windows File Size Explorer**](https://github.com/cracksuxer/windows-file-size-explorer): A tool to identify large files on Windows systems.
+
+### TypeScript
+- [**Chimp**](https://github.com/cracksuxer/chimp): A challenging puzzle game focused on memorizing patterns of lighted squares.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioruzicka&show_icons=true&theme=radical)
