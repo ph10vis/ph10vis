@@ -1,4 +1,4 @@
-# Hi there, I'm Julio!
+# 👋 Hi there, I'm Julio!
 
 ![Welcome Banner](https://via.placeholder.com/900x300/0d1117/58a6ff?text=Welcome+to+My+GitHub+Profile)
 
