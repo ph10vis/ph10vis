@@ -15,10 +15,13 @@ I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **le
 
 ## 🤖 Tech Sides of Me
 ### 🛠️ The Assembly Enthusiast
-Fascinated by the intricacies of **security and penetration** to ethically gain advantages. Deeply involved in projects that require a thorough understanding of **assembly** and system internals.
+Fascinated by the intricacies of **security and penetration**. Deeply involved in projects that require a thorough understanding of **assembly** and system internals.
 
 ### 🌐 Making of microservices
 Proficient in **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
+
+### 💡 And of course, AI!
+Deeply passionate about **Artificial Intelligence** and its potential to revolutionize the world. I love exploring new ways to apply AI for **problem-solving** and **efficiency improvement**, constantly seeking innovative approaches in AI development and application.
 
 ## 🚀 My Projects
 ### Python
