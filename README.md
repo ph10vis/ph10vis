@@ -2,6 +2,10 @@
 
 ![Welcome Banner](https://via.placeholder.com/900x300/0d1117/58a6ff?text=Welcome+to+My+GitHub+Profile)
 
+## 📫 If you have any questions, feel free to ask!
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)
+[julioruzicka@gmail.com](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)
+
 ## 🧩 About Me
 I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **learning new things**, and **improving everything** around me.
 
@@ -44,7 +48,3 @@ Deeply passionate about **Artificial Intelligence** and its potential to revolut
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cracksuxer&show_icons=true&theme=transparent)
-
-## 📫 How to Reach Me
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)
-📧 Email: julioruzicka@gmail.com
