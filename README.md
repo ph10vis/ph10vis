@@ -43,7 +43,7 @@ Deeply passionate about **Artificial Intelligence** and its potential to revolut
 - [**Chimp**](https://github.com/cracksuxer/chimp): A challenging puzzle game focused on memorizing patterns of lighted squares.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cracksuxer&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cracksuxer&show_icons=true&theme=transparent)
 
 ## 📫 How to Reach Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)
