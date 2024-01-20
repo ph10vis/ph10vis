@@ -1,35 +1,31 @@
-# 👋 Hi there, I'm Juio!
+# 👋 Welcome to [Julio Emanuel Ruzicka]'s GitHub Profile!
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-007ACC?style=flat&logo=Assembly&logoColor=white)
+![Welcome Banner](https://via.placeholder.com/900x300/0d1117/58a6ff?text=Welcome+to+My+GitHub+Profile)
 
 ## 🧩 About Me
-- 💻 I'm a passionate **Programmer** who loves **solving puzzles** and diving into **new challenges**.
-- 🌟 Always eager to **learn new things**, with a drive to **improve everything** around me.
-- 📚 Favorite Languages: **Python**, **Rust**, **C++**, **TypeScript**.
+I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **learning new things**, and **improving everything** around me.
+
+- 🌟 Curious and always diving into new challenges.
+- 💼 Currently working at [KeyTrends](https://keytrends.ai/es/).
+- 📚 Favorite Languages: 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
 ## 🤖 Tech Sides of Me
-### 🛠️ Assembly Enthusiast
-- Fascinated by the intricacies of **security and penetration** to ethically gain advantages.
-- Deeply involved in projects that require a thorough understanding of **assembly** and system internals.
+### 🛠️ The Assembly Enthusiast
+Fascinated by the intricacies of **security and penetration** to ethically gain advantages. Deeply involved in projects that require a thorough understanding of **assembly** and system internals.
 
-![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-007ACC?style=flat&logo=Security&logoColor=white)
-
-### 🌐 Making microservices 
-- Proficient in **Python** and **TypeScript** for building scalable **microservices**.
-- Leveraging **models** for various applications, from **chatbots** to data analysis.
-
-![Microservices](https://img.shields.io/badge/-Microservices-007ACC?style=flat&logo=Microservices&logoColor=white)
+### 🌐 The Microservices Maestro
+Proficient in **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
 
 ## 🚀 My Projects
-- Here, you can add a list or links to some of your notable projects, which showcase your skills in assembly, Python, TypeScript, etc.
+[Include your project descriptions and links here as previously detailed]
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioruzicka&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- Feel free to connect with me on [LinkedIn](#) / [Twitter](#) / [Your preferred social media].
-
----
-
-🌍 *Contributing to the digital world, one line of code at a time.*
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)
+📧 Email: julioruzicka@gmail.com
