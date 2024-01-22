@@ -33,6 +33,7 @@ Deeply passionate about **Artificial Intelligence** and its potential to revolut
 - [**DataCleaning-TID**](https://github.com/cracksuxer/DataCleaning-TID): A project focused on data cleaning methodologies.
 - [**TID_Grupo**](https://github.com/cracksuxer/TID_Grupo) & [**TID-GRUPO02**](https://github.com/cracksuxer/TID-GRUPO02): Classification of suspicious purchases using a dataset from Kaggle.
 - [**SOM-TID**](https://github.com/cracksuxer/SOM-TID): Self-Organizing Map project for data analysis.
+- [**Hamiltonian transformer**](https://github.com/danielmdzrgz/HamiltonianCircuit): Hamiltonian circuit to Vertex Cover reduction/transformation.
 
 ### Unity C#
 - [**Whack-an-Animal**](https://github.com/cracksuxer/Whack-an-animal): A fun, Unity-based Whack-A-Mole game with 360-degree VR integration.
