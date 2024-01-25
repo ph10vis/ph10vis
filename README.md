@@ -4,7 +4,7 @@
 
 ## 📫 If you have any questions, feel free to ask!
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)\
-📧 Email: juliorruzicka@gmail.com
+📧 Email: julioeruzicka@gmail.com
 
 ## 🧩 About Me
 I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **learning new things**, and **improving everything** around me.
