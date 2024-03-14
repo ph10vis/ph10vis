@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Julio!
 
-![Welcome Banner](https://via.placeholder.com/900x300/0d1117/58a6ff?text=Welcome+to+My+GitHub+Profile)
+![Welcome Banner]([https://via.placeholder.com/900x300/0d1117/58a6ff?text=Welcome+to+My+GitHub+Profile](https://i.ibb.co/L12rRFd/untitled.png))
 
 ## 📫 If you have any questions, feel free to ask!
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)\
