@@ -16,13 +16,13 @@ I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **le
 ![tools](https://skillicons.dev/icons?i=react,nodejs,bun,mongo,docker,firebase,github,graphql,kubernetes,linux,lua,mysql,nestjs,postman,rabbitmq,rails,redux,tailwind&theme=dark&perline=6)\
 &nbsp;<img src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" alt="clickhouse" width="50"/>
 ## 🤖 Tech Sides of Me
-### 🛠️ Assembly or nothing 
+### 🛠️ Everything is Open Source if you can read assembly
 Fascinated by **systems penetration**. Deeply involved in projects that require a thorough understanding of **assembly** and system internals in game.
 
 ### 🌐 Making of microservices
 In love with **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
 
-### ♻️ Scraping is not theft
+### ♻️ Scraping is not a crime
 Have been scraping and reversing websites such as google trends, ecommerce websites and more! Enjoying the cat and mouse game.
 
 ### 💡 And of course, AI!
