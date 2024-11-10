@@ -1,6 +1,5 @@
 # 👋 Hi there!
-
-I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **learning new things**, and **improving everything** around me.
+I'm Julio, a passionate **full stack developer** with a love for **solving puzzles**, **learning new things**, and **improving everything** around me.
 
 - 🌟 Curious and always diving into new challenges.
 - 💼 Currently working at [KeyTrends](https://keytrends.ai/es/).
