@@ -13,8 +13,8 @@ I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **le
 ### 📚 Favourite Languages
 ![langs](https://skillicons.dev/icons?i=cpp,typescript,rust,python&theme=dark)
 ### 🧰 Set Of Tools
-![tools](https://skillicons.dev/icons?i=react,nodejs,bun,mongo,docker,firebase,github,graphql,kubernetes,linux,lua,mysql,nestjs,postman,rabbitmq,rails,redux,tailwind&theme=dark&perline=6)
-
+![tools](https://skillicons.dev/icons?i=react,nodejs,bun,mongo,docker,firebase,github,graphql,kubernetes,linux,lua,mysql,nestjs,postman,rabbitmq,rails,redux,tailwind&theme=dark&perline=6)\
+&nbsp;<img src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" alt="clickhouse" width="50"/>
 ## 🤖 Tech Sides of Me
 ### 🛠️ Assembly or nothing 
 Fascinated by **systems penetration**. Deeply involved in projects that require a thorough understanding of **assembly** and system internals in game.
