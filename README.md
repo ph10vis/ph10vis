@@ -1,21 +1,19 @@
-# 👋 Hi there, I'm Julio!
+# 👋 Hi there!
 
-![Welcome Banner](https://via.placeholder.com/900x300/0d1117/58a6ff?text=Welcome+to+My+GitHub+Profile)
-## 📫 If you have any questions, feel free to ask!
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)\
-📧 Email: julioeruzicka@gmail.com
-
-## 🧩 About Me
 I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **learning new things**, and **improving everything** around me.
 
 - 🌟 Curious and always diving into new challenges.
 - 💼 Currently working at [KeyTrends](https://keytrends.ai/es/).
 - 🫶 From ? to ;
-- 📚 Favorite Languages: 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+  
+## 📫 If you have any questions, feel free to ask!
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)\
+📧 Email: julioeruzicka@gmail.com
+
+### 📚 Favourite Languages
+![langs](https://skillicons.dev/icons?i=cpp,typescript,rust,python&theme=dark)
+### 🧰 Set Of Tools
+![tools](https://skillicons.dev/icons?i=react,nodejs,bun,mongo,docker,firebase,github,graphql,kubernetes,linux,lua,mysql,nestjs,postman,rabbitmq,rails,redux,tailwind&theme=dark&perline=6)
 
 ## 🤖 Tech Sides of Me
 ### 🛠️ Assembly or nothing 
