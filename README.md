@@ -17,14 +17,17 @@ I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **le
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
 ## 🤖 Tech Sides of Me
-### 🛠️ The Assembly Enthusiast
-Fascinated by the intricacies of **systems penetration**. Deeply involved in projects that require a thorough understanding of **assembly** and system internals.
+### 🛠️ Assembly or nothing 
+Fascinated by **systems penetration**. Deeply involved in projects that require a thorough understanding of **assembly** and system internals in game.
 
 ### 🌐 Making of microservices
-Proficient in **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
+In love with **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
+
+## ♻️ Scraping is not theft!
+Have been scraping and reversing websites such as google trends, ecommerce websites and more! Enjoying the cat and mouse game.
 
 ### 💡 And of course, AI!
-Deeply passionate about **Artificial Intelligence** and its potential to revolutionize the world. I love exploring new ways to apply AI for **problem-solving** and **efficiency improvement**, constantly seeking innovative approaches in AI development and application.
+Passionate about **Artificial Intelligence** and its potential to revolutionize the world. I love exploring new ways to apply AI for **problem-solving** and **efficiency improvement**, constantly seeking innovative approaches in AI development and application.
 
 ## 🚀 My Projects
 ### Python
@@ -33,6 +36,7 @@ Deeply passionate about **Artificial Intelligence** and its potential to revolut
 - [**TID_Grupo**](https://github.com/cracksuxer/TID_Grupo) & [**TID-GRUPO02**](https://github.com/cracksuxer/TID-GRUPO02): Classification of suspicious purchases using a dataset from Kaggle.
 - [**SOM-TID**](https://github.com/cracksuxer/SOM-TID): Self-Organizing Map project for data analysis.
 - [**Hamiltonian transformer**](https://github.com/danielmdzrgz/HamiltonianCircuit): Hamiltonian circuit to Vertex Cover reduction/transformation.
+- **Google Trends v2 reversed + scraper** (currently private)
 
 ### Unity C#
 - [**Whack-an-Animal**](https://github.com/cracksuxer/Whack-an-animal): A fun, Unity-based Whack-A-Mole game with 360-degree VR integration.
