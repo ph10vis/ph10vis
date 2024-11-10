@@ -10,6 +10,7 @@ I'm Julio, a passionate **Programmer** with a love for **solving puzzles**, **le
 
 - 🌟 Curious and always diving into new challenges.
 - 💼 Currently working at [KeyTrends](https://keytrends.ai/es/).
+- 🫶 From ? to ;
 - 📚 Favorite Languages: 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white)
@@ -23,7 +24,7 @@ Fascinated by **systems penetration**. Deeply involved in projects that require 
 ### 🌐 Making of microservices
 In love with **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
 
-## ♻️ Scraping is not theft!
+### ♻️ Scraping is not theft
 Have been scraping and reversing websites such as google trends, ecommerce websites and more! Enjoying the cat and mouse game.
 
 ### 💡 And of course, AI!
