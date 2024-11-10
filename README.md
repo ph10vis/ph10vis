@@ -2,7 +2,7 @@
 I'm Julio, a passionate **full stack developer** with a love for **solving puzzles**, **learning new things**, and **improving everything** around me.
 
 - 🌟 Curious and always diving into new challenges.
-- 💼 Currently working at [KeyTrends](https://keytrends.ai/es/).
+- 💼 Currently working at [Keytrends](https://keytrends.ai/es/).
 - 🫶 From ? to ;
   
 ## 📫 If you have any questions, feel free to ask!
