@@ -1,52 +1,53 @@
-# 👋 Hi there!
-I'm Julio, a passionate **full stack developer** with a love for **solving puzzles**, **learning new things**, and **improving the little things** around me.
+### Hi, I'm Julio 👋
 
-- 🌟 Curious and always diving into new challenges.
-- 💼 Currently working at [Keytrends](https://keytrends.ai/es/).
-- 🫶 From ? to ;
-  
-## 📫 If you have any questions, feel free to ask!
+I'm a developer who loves diving deep into how things work, from the low-level mechanics of assembly to the complex architecture of scalable microservices. I enjoy the challenge of solving puzzles, whether it's reversing a website's API or building a practical AI tool.
+
+---
+
+### 📫 Let's Connect
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-emanuel-ruzicka-ruzicka-31a127229/)\
 📧 Email: julioeruzicka@gmail.com
 
-### 📚 Favourite Languages
+### 📚 My Go-To Languages
 ![langs](https://skillicons.dev/icons?i=cpp,typescript,rust,python&theme=dark)
-### 🧰 Set Of Tools
+### 🧰 My Toolbox
 ![tools](https://skillicons.dev/icons?i=react,nodejs,bun,mongo,docker,firebase,github,graphql,kubernetes,linux,lua,mysql,nestjs,postman,rabbitmq,rails,redux,tailwind&theme=dark&perline=6)\
 &nbsp;<img src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" alt="clickhouse" width="50"/>
-## 🤖 Tech Sides of Me
-### 🛠️ Everything is Open Source if you can read assembly
-Fascinated by **systems penetration**. Deeply involved in projects that require a thorough understanding of **assembly** and system internals in game.
 
-### 🌐 Making of microservices
-In love with **Python** and **TypeScript** for building scalable **microservices** and leveraging **models** for various applications, from **chatbots** to data analysis.
+---
 
-### ♻️ Scraping is not a crime
-Have been scraping and reversing websites such as google trends, ecommerce websites and more! Enjoying the cat and mouse game.
+### 🌱 What I'm Exploring
 
-### 💡 And of course, AI!
-Passionate about **Artificial Intelligence** and its potential to revolutionize the world. I love exploring new ways to apply AI for **problem-solving** and **efficiency improvement**, constantly seeking innovative approaches in AI development and application.
+* **Reverse Engineering & Systems:** I'm fascinated by systems penetration and game internals. There's a certain thrill to the idea that "Everything is Open Source if you can read assembly."
+* **Building with Microservices:** I enjoy creating scalable systems using **Python** and **TypeScript**. I have experience building out services for everything from chatbots to data analysis pipelines.
+* **The Web Scraping Game:** I love the cat-and-mouse game of scraping and reversing websites. It's a constant learning process to find new ways to gather data.
+* **Practical AI:** I'm interested in using AI as a tool to solve real-world problems. My focus is on practical applications that improve efficiency, rather than just the theory.
 
-## 🚀 My Projects
-### Python
-- [**QuickType-Bot**](https://github.com/cracksuxer/QuickType-Bot): An innovative bot using Google OCR for automatic typing on platforms like MonkeyType.
-- [**DataCleaning-TID**](https://github.com/cracksuxer/DataCleaning-TID): A project focused on data cleaning methodologies.
-- [**TID_Grupo**](https://github.com/cracksuxer/TID_Grupo) & [**TID-GRUPO02**](https://github.com/cracksuxer/TID-GRUPO02): Classification of suspicious purchases using a dataset from Kaggle.
-- [**SOM-TID**](https://github.com/cracksuxer/SOM-TID): Self-Organizing Map project for data analysis.
-- [**Hamiltonian transformer**](https://github.com/danielmdzrgz/HamiltonianCircuit): Hamiltonian circuit to Vertex Cover reduction/transformation.
-- **Google Trends v2 reversed + scraper idea** (currently private)
+---
 
-### Unity C#
-- [**Whack-an-Animal**](https://github.com/cracksuxer/Whack-an-animal): A fun, Unity-based Whack-A-Mole game with 360-degree VR integration.
+### 🚀 Some Things I've Built
 
-### C++
-- [**Auto-Compiler-Cpp**](https://github.com/cracksuxer/Auto-compiler-cpp): A simple yet effective tool akin to automake for C++ projects.
+#### Python
+- [**QuickType-Bot**](https://github.com/cracksuxer/QuickType-Bot): A bot I made to play typing games like MonkeyType using Google's OCR.
+- [**DataCleaning-TID**](https://github.com/cracksuxer/DataCleaning-TID): A collection of scripts for cleaning and preparing messy datasets.
+- [**TID_Grupo**](https://github.com/cracksuxer/TID_Grupo) & [**TID-GRUPO02**](https://github.com/cracksuxer/TID-GRUPO02): Used a Kaggle dataset to classify suspicious purchasing behavior.
+- [**SOM-TID**](https://github.com/cracksuxer/SOM-TID): Implemented a Self-Organizing Map for data analysis.
+- [**Hamiltonian transformer**](https://github.com/danielmdzrgz/HamiltonianCircuit): A reduction from the Hamiltonian circuit problem to the Vertex Cover problem.
+- **Google Trends Scraper:** (Private) A project to reverse and scrape Google Trends data.
 
-### Go
-- [**Windows File Size Explorer**](https://github.com/cracksuxer/windows-file-size-explorer): A tool to identify large files on Windows systems.
+#### Unity C#
+- [**Whack-an-Animal**](https://github.com/cracksuxer/Whack-an-animal): A classic Whack-A-Mole game, but built in Unity for 360-degree VR.
 
-### TypeScript
-- [**Chimp**](https://github.com/cracksuxer/chimp): A challenging puzzle game focused on memorizing patterns of lighted squares.
+#### C++
+- [**Auto-Compiler-Cpp**](https://github.com/cracksuxer/Auto-compiler-cpp): A simple `automake`-like tool to speed up C++ project compilation.
+
+#### Go
+- [**Windows File Size Explorer**](https://github.com/cracksuxer/windows-file-size-explorer): A handy tool for finding what's eating up your disk space on Windows.
+
+#### TypeScript
+- [**Chimp**](https://github.com/cracksuxer/chimp): A tough memory puzzle game where you repeat patterns of lighted squares.
+
+
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cracksuxer&show_icons=true&theme=transparent)
