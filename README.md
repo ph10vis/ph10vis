@@ -1,6 +1,6 @@
 ### Hi, I'm Julio 👋
 
-I'm a developer who loves diving deep into how things work, from the low-level mechanics of assembly to the complex architecture of scalable microservices. I enjoy the challenge of solving puzzles, whether it's reversing a website's API or building a practical AI tool.
+I'm a developer who loves diving deep into how things work, from the low-level mechanics of assembly to the architecture of microservices. I enjoy the challenge of solving puzzles, whether it's reversing a website's API or building a practical AI tool.
 
 ---
 
@@ -16,12 +16,9 @@ I'm a developer who loves diving deep into how things work, from the low-level m
 
 ---
 
-### 🌱 What I'm Exploring
+I jump between reverse engineering, building microservices, web scraping, and applied AI.
 
-* **Reverse Engineering & Systems:** I'm fascinated by systems penetration and game internals. There's a certain thrill to the idea that "Everything is Open Source if you can read assembly."
-* **Building with Microservices:** I enjoy creating scalable systems using **Python** and **TypeScript**. I have experience building out services for everything from chatbots to data analysis pipelines.
-* **The Web Scraping Game:** I love the cat-and-mouse game of scraping and reversing websites. It's a constant learning process to find new ways to gather data.
-* **Practical AI:** I'm interested in using AI as a tool to solve real-world problems. My focus is on practical applications that improve efficiency, rather than just the theory.
+Everything is open source if you read assembly d:
 
 ---
 
